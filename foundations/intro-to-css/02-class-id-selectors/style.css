@@ -1,0 +1,25 @@
+p {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.salmon {
+    background-color: #fa8f73;
+
+}
+
+.salmon.bold {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+#two {
+    color: #0053ab;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #50d773;
+    font-size: 24px;
+    font-weight: bold;
+
+}
