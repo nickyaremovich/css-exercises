@@ -1,7 +1,11 @@
 div {
     color: white;
     background-color: red;
-    justify-self: center;
     font-size: 32px;
     font-weight: bold;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
 }
